@@ -2,14 +2,14 @@ title: "sarah liaw"
 email: "hello@paulle.ca"
 
 social:
-- {icon: 'fab fa-github', link: 'https://github.com/LeNPaul'}
-- {icon: 'fab fa-twitter', link: 'https://twitter.com/hellopaulle'}
-- {icon: 'fas fa-envelope', link: 'mailto:hello@paulle.ca'}
+- {icon: 'fab fa-github', link: 'https://github.com/SarahLiaw'}
+- {icon: 'fab fa-twitter', link: 'https://twitter.com/verynotsarah'}
+- {icon: 'fas fa-envelope', link: 'mailto:sarah.liaw@outlook.com'}
 
-google_analytics: "UA-111549056-1"
-mailchimp: "https://hungryminds.us7.list-manage.com/subscribe?u=08fe04e6a6ba1be08842091b9&id=01717016fd"
+# google_analytics: "UA-111549056-1"
+# mailchimp: "https://hungryminds.us7.list-manage.com/subscribe?u=08fe04e6a6ba1be08842091b9&id=01717016fd"
 
-url: "https://paulle.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sarahliaw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 collections:
